@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "230457869667",
+    "firebase_url": "https://workmanagement-ef66b.firebaseio.com",
+    "project_id": "workmanagement-ef66b",
+    "storage_bucket": "workmanagement-ef66b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230457869667:android:27e22546d1f2fc0f",
+        "android_client_info": {
+          "package_name": "com.example.sanjiv.workmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230457869667-nbenihh7hdvk7ke8ujm4h75tuutnqjoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sanjiv.workmanagement",
+            "certificate_hash": "b371bb86081eb02652b259c933e9b17749eaada5"
+          }
+        },
+        {
+          "client_id": "230457869667-p7mbhs006u20jt5flsjm135ahfreeufn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB90pkVVynECIQTUP1WWvxl-5P8Qy8g35M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230457869667-p7mbhs006u20jt5flsjm135ahfreeufn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
